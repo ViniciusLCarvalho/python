@@ -24,8 +24,6 @@
 
 * Elabore um gráfico boxplot mostrando a quantidade de reclamações por região.
 
-# É possível afirmar que existe correlação entre o número de reclamações
+* É possível afirmar que existe correlação entre o número de reclamações
 
-# E o número de habitantes por Estado? Elabore um gráfico de dispersão e
-
-# calcule o índice de correlação destes dois fatores
+* E o número de habitantes por Estado? Elabore um gráfico de dispersão e calcule o índice de correlação destes dois fatores
